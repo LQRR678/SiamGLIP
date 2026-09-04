@@ -37,9 +37,9 @@ ${PROJECT_ROOT}
          |-- val
 ```
 ## Training
-Download pre-trained [GLIP] [百度云](https://pan.baidu.com/s/1lcOpUl9A8IEQ-fKHyTUpoQ?pwd=8827) (提取码: 8827) model and place it under PROJECT_ROOT/libs/mmdetection-main/checkpoints/.
+Download pre-trained [GLIP] [百度云](https://pan.baidu.com/s/1lcOpUl9A8IEQ-fKHyTUpoQ?pwd=8827) (提取码: 8827) model and place it under ./libs/mmdetection-main/checkpoints/.
 
-Download pre-trained [BERT] [百度云](https://pan.baidu.com/s/11830prkeDQA5hms2y4Rq6w?pwd=8827) (提取码: 8827) model and place it under PROJECT_ROOT/libs/bert-base-uncased/.
+Download pre-trained [BERT] [百度云](https://pan.baidu.com/s/11830prkeDQA5hms2y4Rq6w?pwd=8827) (提取码: 8827) model and place it under ./libs/bert-base-uncased/.
 ```
 torchrun --nproc_per_node=4 tracking_train_demo.py --launcher pytorch
 ```
