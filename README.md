@@ -4,6 +4,7 @@ models: [百度云](https://pan.baidu.com/s/1lcOpUl9A8IEQ-fKHyTUpoQ?pwd=8827) (�
 raw_results: [百度云](https://pan.baidu.com/s/17a0bKuEMgNVlmtIRXRxJng?pwd=8827) (提取码: 8827)
 
 
+<img width="1793" height="840" alt="framework" src="https://github.com/user-attachments/assets/dafd9bf4-e047-46c4-9be3-68367a3f4a1d" />
 ![Uploading framework.png…]()
 
 
