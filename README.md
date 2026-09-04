@@ -4,7 +4,7 @@ models: [百度云](https://pan.baidu.com/s/1lcOpUl9A8IEQ-fKHyTUpoQ?pwd=8827) (�
 raw_results: [百度云](https://pan.baidu.com/s/17a0bKuEMgNVlmtIRXRxJng?pwd=8827) (提取码: 8827)
 
 
-<img width="1793" height="840" alt="framework" src="https://github.com/user-attachments/assets/555ca623-9220-4a01-96fc-ecb7a7440c44" />
+![Uploading framework.png…]()
 
 
 ## Install the environment
